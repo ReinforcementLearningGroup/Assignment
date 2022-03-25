@@ -4,14 +4,13 @@
 This file includes all codes to implement Deep SARSA, Q-learning, and DQN models. You can implement all code before 【1 SARSA】, and then run all the code contained in the model you want.
 
 ## 2.Hyperparameter_modification.ipynb
-This file is a template for the experiments on Hyperparameter modification. You can change the two hyperparameters $\gamma$ and $\beta$ and run this file to get corrosponding results.
+This file is a template for the experiments on Hyperparameter modification. You can change the two hyperparameters gamma and beta and run this file to get corresponding results.
 ```
-# HYPERPARAMETERS WHICH CAN BE CHANGED ----------------------------------------------------
-gamma = 0.95        # THE DISCOUNT FACTOR
-beta = 0.005         # THE PARAMETER SETS HOW QUICKLY THE VALUE OF EPSILON IS DECAYING
-# -----------------------------------------------------------------------------------------
+# HYPERPARAMETERS WHICH CAN BE CHANGED 
+gamma = 0.95  # THE DISCOUNT FACTOR
+beta = 0.005  # THE PARAMETER SETS HOW QUICKLY THE VALUE OF EPSILON IS DECAYING
 ```
-
+Please see the description in this file for more details.
 
 ## 3.Reward_administration.ipynb
 
