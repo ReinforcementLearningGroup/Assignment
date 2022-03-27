@@ -1,7 +1,7 @@
 # .ipynb files
 
 ## 1.Implementation_SARSA_Qlearning_DQN.ipynb
-This file includes all codes to implement Deep SARSA, Q-learning, and DQN models. You can implement all code before 【1 SARSA】, and then run all the code contained in the model you want.
+This file includes all codes to implement Deep SARSA, Q-learning, and DQN models. You can implement all code before [1 SARSA], and then run all the code contained in the model you want.
 
 ## 2.Hyperparameter_modification.ipynb
 This file is a template for the experiments on Hyperparameter modification. You can change the two hyperparameters(gamma and beta) and run this file to get corresponding results.
@@ -26,7 +26,7 @@ This file contains all figures of Hyperparameter modification and Reward adminis
 
 ## 5.Implementation_best_SARSA_Qlearning_DQN.ipynb
 #### This file includes all codes to implement the best Deep SARSA, Q-learning, and DQN models with the relatively best hyperparameters.
-#### You can implement all code before 【1 SARSA】, and then run all the code contained in the model you want.
+#### You can implement all code before [1 SARSA], and then run all the code contained in the model you want.
 
 ## 6.gradient_exploding.ipynb and gradient_exploding_clipping.ipynb
 These two files are designed to solve gradient exploding problems via a comparison experiment. The second one use a global norm clipping method to solve this problem.
