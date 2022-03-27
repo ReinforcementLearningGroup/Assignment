@@ -30,3 +30,8 @@ This file contains all figures of Hyperparameter modification and Reward adminis
 
 ## 6.gradient_exploding.ipynb and gradient_exploding_clipping.ipynb
 These two files are designed to solve gradient exploding problems via a comparison experiment. The second one use a global norm clipping method to solve this problem.
+
+# .py files
+
+## 1.Chess_env_reward_change.py
+This file is a new environment for the agent. We refactored its constructor so that it can accept two more parameters (r_checkmate; r_draw). We used this new environment in Reward_administration.ipynb.
