@@ -11,7 +11,7 @@ class Chess_Env:
     For this new chess environment, we modify its constructor so that it can receive two more
     parameters which are reward of checkmate and reward of draw.
     
-    Aslo, in order to record the number of checkmate per game, we add an attribute named is_checkmate.
+    Also, in order to record the number of checkmate per game, we add an attribute named is_checkmate.
     """
     
     def __init__(self, N_grid, r_checkmate, r_draw):
