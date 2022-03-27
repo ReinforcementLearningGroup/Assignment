@@ -25,8 +25,8 @@ Please see the description in this file for more details.
 This file contains all figures of Hyperparameter modification and Reward administration. It uses the experimental results from the folders "Results_diff_hyperparameters" and "Results_diff_rewards".
 
 ## 5.Implementation_best_SARSA_Qlearning_DQN.ipynb
-#### This file includes all codes to implement the best Deep SARSA, Q-learning, and DQN models with the relatively best hyperparameters.
-#### You can implement all code before [1 SARSA], and then run all the code contained in the model you want.
+This file includes all codes to implement the best Deep SARSA, Q-learning, and DQN models with the relatively best hyperparameters.
+You can implement all code before [1 SARSA], and then run all the code contained in the model you want.
 
 ## 6.gradient_exploding.ipynb and gradient_exploding_clipping.ipynb
 These two files are designed to solve gradient exploding problems via a comparison experiment. The second one use a global norm clipping method to solve this problem.
