@@ -29,7 +29,7 @@ This file includes all codes to implement the best Deep SARSA, Q-learning, and D
 You can implement all code before [1 SARSA], and then run all the code contained in the model you want.
 
 ## 6.gradient_exploding.ipynb and gradient_exploding_clipping.ipynb
-These two files are designed to solve gradient exploding problems via a comparison experiment. The second one use a global norm clipping method to solve this problem.
+These two files are designed to solve gradient exploding problems via a comparison experiment. The first one is the experiment that we observed gradient exploding and in the second one we use a global norm clipping method to solve this problem.
 
 # .py files
 
